@@ -61,7 +61,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** and basic **feature 
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Jupyter Notebook
+- google colab Notebook
 
 ---
 
@@ -69,7 +69,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** and basic **feature 
 
 **Aditya Jha**  
 Aspiring Data Scientist | AIML Student  
-[LinkedIn](https://www. | [GitHub](https://github.com/)
+[LinkedIn](www.linkedin.com/in/adityajha49) | [GitHub](https://github.com/Code247nexus/)
 
 ---
 
